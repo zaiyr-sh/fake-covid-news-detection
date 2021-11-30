@@ -12,3 +12,8 @@ The purpose of this project is to find out if a specific news about coronavirus 
 # Purpose
 
 This is an International Ala-Too University project marking the studying Machine Learning. It's purpose is to build a project related to AI, Artificial Neural Networks, Machine learning, Deep Learning, Soft computing, Natural Language Processing or any related subjects.
+
+# License
+The MIT License (MIT)
+
+Copyright © 2021 Zaiyr Sharsheyev
