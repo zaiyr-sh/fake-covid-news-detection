@@ -16,4 +16,4 @@ This is an International Ala-Too University project marking the studying Machine
 # License
 The MIT License (MIT)
 
-Copyright © 2021 Zaiyr Sharsheyev
+© 2021 Zaiyr Sharsheyev
