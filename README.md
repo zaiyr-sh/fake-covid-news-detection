@@ -1,5 +1,6 @@
 # Fake Covid News Detection
-<img src="" alt="Preview"/>
+
+<img src="./project_info/title.png" alt="Preview"/>
 
 The purpose of this project is to find out if a specific news about coronavirus is true or false.📊🦠 After the outbreak of the pandemic, some media provide false news about the coronavirus for the ratings. My mission is to help people filter news and keep abreast of only true current news.
 
